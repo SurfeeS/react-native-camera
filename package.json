@@ -68,7 +68,7 @@
   "pre-commit": "lint:staged",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-camera.git"
+    "url": "git+https://github.com/SurfeeS/react-native-camera.git"
   },
   "scripts": {
     "commit": "git-cz",
